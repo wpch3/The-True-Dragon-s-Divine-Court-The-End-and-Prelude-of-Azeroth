@@ -4,7 +4,7 @@
 
 ## 当前正典进度
 
-**第 1–34 章**（30–33 为 v2 重写；34 部落双头）
+**第 1–38 章**（30–33 v2；34 双头；35–38 洛丹伦/公约/北风）
 
 - 阅读入口：`novel/chapters/_canon_current/`
 - 分卷：`novel/chapters/vol_01_*` … `vol_03_*`
@@ -26,6 +26,11 @@ novel/audit/     # 审计与 Gemini 订正
 ## 体量
 
 500 章 = L1 里程碑，可扩 800–1000+（`novel/blueprint/LONG_ARC_1000.md`）
+
+## Gemini 交接
+
+- `novel/HANDOFF_GEMINI.md`
+- `novel/真龙神庭_交接_Gemini.pdf`（根目录同步副本）
 
 ## 分支
 
