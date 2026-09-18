@@ -1,0 +1,10 @@
+# bulky extracts / caches
+novel_full.txt
+novel_normalized.txt
+fonts/
+*.deb
+__pycache__/
+.venv/
+.npm/
+.cache/
+node_modules/
